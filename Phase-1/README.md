@@ -8,10 +8,8 @@
 GuardianX uses the **Arduino Nicla Vision** as its primary embedded processing platform. An inertial measurement sensor collects motion data from the child, which is processed locally using a **Decision Tree-based machine learning model** to recognize different activities and identify potentially abnormal or emergency-related situations.
 
 The system is designed to detect conditions such as:
-- Falls and sudden movements.
-- Prolonged inactivity.
-- Unusual or potentially unsafe activities.
-- SOS alerts.
+- Sitting, Standing, Walking, Jumping, Walking upstairs, Walking downstairs.
+- Sudden movements, Prolonged inactivity, Maximum vibration.
 
 By implementing **Edge AI**, the system performs activity classification directly on the embedded device, reducing dependence on continuous cloud processing and enabling faster local analysis.
 
