@@ -2,11 +2,6 @@
 A collection of final-year academic project work, documentation, implementations, and related resources developed across two project phases.
 This repository is organized into two folders representing the two semesters of the final-year project.
 
-## Repository Structure
-Final-Year-Projects/
-├── Phase-1/
-└── Phase-2/
-
 ## Project Phases
 
 ### Phase 1 – First Semester
